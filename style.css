@@ -1,0 +1,13 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+.jejugothic * { /** 폰트 영문 이름 지정 **/
+ font-family: 'Jeju Gothic', sans-serif;
+}
+
+ul {
+    color:blue;
+}
+
+h1 {
+    color:#3f8c8f;
+}
